@@ -26,3 +26,6 @@ So far, I have made three hardware changes that require different software.
 3. I connected the I2C and interrupt lines from the touch controller in my 7 inch display to the Teensy board.  No functions are planned for the touch screen that aren't already covered by some other control.
 
 If you use this code or portions of it, please ask any questions about it on the groups.io forum.  If you have a question or issue, you can bet that someone else does too.  All will benefit from any ensuing discussion.  I check it every day that I am not skiing, fishing or taking a nap...
+
+73,
+Len, KD0RC
