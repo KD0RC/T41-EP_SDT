@@ -30,3 +30,5 @@ If you use this code or portions of it, please ask any questions about it on the
 73,
 
 Len, KD0RC
+
+![KD0RC T41 03-31-23](https://user-images.githubusercontent.com/71241774/236690563-27716e70-b4cb-46ce-874e-e70f42f0df35.jpg)
